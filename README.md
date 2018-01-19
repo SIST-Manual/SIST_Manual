@@ -25,13 +25,39 @@ Ros.org
 ### Test: 
 Provide OJ
 
-Easy： CodeForces / LeetCode / ... 	4 Problems 	30~50 lines.
+(Please Change Problem 1/2/3/4 to your problem's name)
 
-Median： SI HW(maybe) / ROS.org / CodeForces 		4 problems = 2(C/Python) + 1ROS + 1 Rust 50~200 lines
+Easy： 
 
-Advanced： Rust HW, SI HW		2 problems = 1(C/Python) + 1 Rust 200+ lines
+[Easy Problem 1](https://github.com/SIST-Manual/Example)
 
-Ans： C/C++/Python/Rust All need to be written(maybe no need for easy)
+[Easy Problem 2](https://github.com/SIST-Manual/Example)
+
+[Easy Problem 3](https://github.com/SIST-Manual/Example)
+
+[Easy Problem 4](https://github.com/SIST-Manual/Example)
+
+CodeForces / LeetCode / ... 	4 Problems 	30~50 lines.
+
+Median： 
+
+[Median Problem 1](https://github.com/SIST-Manual/Example)
+
+[Median Problem 2](https://github.com/SIST-Manual/Example)
+
+[Median Problem 3](https://github.com/SIST-Manual/Example)
+
+[Median Problem 4](https://github.com/SIST-Manual/Example)
+
+SI HW(maybe) / ROS.org / CodeForces 		4 problems = 2(C/Python) + 1ROS + 1 Rust 50~200 lines
+
+Advanced： 
+
+[Advanced Problem 1](https://github.com/SIST-Manual/Example)
+
+[Advanced Problem 2](https://github.com/SIST-Manual/Example)
+
+Rust HW, SI HW		2 problems = 1(C/Python) + 1 Rust 200+ lines
 
 If you cannot finish median in **two months all by yourself**, it is recommended that you ** reconsider your choice ** to join SIST.
 
