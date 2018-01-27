@@ -58,7 +58,7 @@ CodeForces / LeetCode / ... 	4 Problems 	30~50 lines.
 
 Median： 
 
-[Median Problem 1](https://github.com/SIST-Manual/Example)
+[Median Problem 1: 2048](https://github.com/SIST-Manual/median_1_2048)
 
 [Median Problem 2](https://github.com/SIST-Manual/Example)
 
