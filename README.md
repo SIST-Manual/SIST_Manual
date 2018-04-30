@@ -70,9 +70,9 @@ SI HW(maybe) / ROS.org / CodeForces 		4 problems = 2(C/Python) + 1ROS + 1 Rust 5
 
 Advanced： 
 
-[Advanced Problem 1](https://github.com/SIST-Manual/Example)
+[Advanced Problem 1: Python Matrix](https://github.com/SIST-Manual/Matrix/blob/master/Python/Matrix_Python_Assignment.md)
 
-[Advanced Problem 2](https://github.com/SIST-Manual/Example)
+[Advanced Problem 2: Rust Matrix](https://github.com/SIST-Manual/Matrix/blob/master/Rust/README.md)
 
 Rust HW, SI HW		2 problems = 1(C/Python) + 1 Rust 200+ lines
 
