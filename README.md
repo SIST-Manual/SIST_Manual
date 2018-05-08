@@ -1,8 +1,8 @@
 # Goal： Shorten preparation time.
 We need this manual to be written in both Chinese and English too.
 
-## 生活
-## Life
+
+## 生活 / Life
 
 1. 合理分配学习与休息时间，量力而行。
 2. 保证充足的睡眠时间，以及尽可能地不要过晚入睡。
@@ -11,8 +11,7 @@ We need this manual to be written in both Chinese and English too.
 
 Something, target is SIST students.(Like sleep early and get up early XD)
 
-## 预先准备
-## Preparation
+## 预先准备 / Preparation
 
 ### 英语
 能够较为顺利地与他人交流（听说能力），以及能够阅读一些较长的阅读材料（例如Wikipedia上的词条）。
@@ -26,7 +25,7 @@ Prepare for IELTS reading, listening and speaking. Try to reach two 7s in readin
 ### Math
 Prepare a little bit for Calculus. (Until Taylor Expansion?)
 
-### 计算机部分
+### 计算机
 
 对于计算机而言，主要还是三类操作系统：Linux、Windows、macOS。 在这里，我们主要推荐的自然是Linux，因为...
 主要应用的软件工具类型主要有？？？？？种：代码/项目管理、代码编写、项目说明。
