@@ -1,13 +1,31 @@
 # Goal： Shorten preparation time.
 We need this manual to be written in both Chinese and English too.
+
+## 生活
 ## Life
+
+1. 合理分配学习与休息时间，量力而行。
+2. 保证充足的睡眠时间，以及尽可能地不要过晚入睡。
+3. 注意用眼时长，由于信息学院学生会时常接触电脑屏幕，故须适当放松。
+4. 注意饮食，不要经常食用方便食品（比如泡面）。
+
 Something, target is SIST students.(Like sleep early and get up early XD)
 
+## 预先准备
 ## Preparation
+
+### 英语
+能够较为顺利地与他人交流（听说能力），以及能够阅读一些较长的阅读材料（例如Wikipedia上的词条）。
+
 ### English
 Prepare for IELTS reading, listening and speaking. Try to reach two 7s in reading and listening.
+
+### 数学
+稍微接触微积分，线性代数的基本概念，能够理解一些概念名称的含义（准备期并不要求掌握与应用）。
+
 ### Math
 Prepare a little bit for Calculus. (Until Taylor Expansion?)
+
 ### 计算机部分
 
 对于计算机而言，主要还是三类操作系统：Linux、Windows、macOS。 在这里，我们主要推荐的自然是Linux，因为...
