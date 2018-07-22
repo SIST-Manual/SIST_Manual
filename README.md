@@ -1,6 +1,4 @@
-# Goal： Shorten preparation time.
-We need this manual to be written in both Chinese and English too.
-
+# SIST-Manual
 
 ## 生活 / Life
 
@@ -8,8 +6,6 @@ We need this manual to be written in both Chinese and English too.
 2. 保证充足的睡眠时间，以及尽可能地不要过晚入睡。
 3. 注意用眼时长，由于信息学院学生会时常接触电脑屏幕，故须适当放松。
 4. 注意饮食，不要经常食用方便食品（比如泡面）。
-
-Something, target is SIST students.(Like sleep early and get up early XD)
 
 ## 预先准备 / Preparation
 
@@ -27,8 +23,7 @@ Prepare a little bit for Calculus. (Until Taylor Expansion?)
 
 ### 计算机
 
-对于计算机而言，主要还是三类操作系统：Linux、Windows、macOS。 在这里，我们主要推荐的自然是Linux，因为...
-主要应用的软件工具类型主要有？？？？？种：代码/项目管理、代码编写、项目说明。
+对于计算机而言，主要还是三类操作系统：Linux、Windows、macOS。 在这里，我们主要推荐的自然是Linux，因为平时作业、项目、实验等使用较多。
 在代码/项目管理中，我们最为推崇的方式是以git为首的版本控制系统。 所谓版本控制系统，是一种记录一个或若干文件内容变化，以便将来查阅特定版本修订情况的系统。 ...
 在编写代码的部分里，有vi, Emacs, Sublime Text...
 而为了方便调试程序，我们会使用集成开发环境（IDE）进行编写以及调试代码，推荐JetBrains全家桶...
@@ -42,38 +37,28 @@ Prepare a little bit for Calculus. (Until Taylor Expansion?)
 其他硬件，例如电池，需要各位单独做出选择，但是这些硬件不是很需要去考虑，这里不作相应的推荐。 而且，为了避免广告的嫌疑，我们不推荐具体的设备型号，且在暑假期间对于推荐电脑的问题我们也只会作少数回复。
 最后，再次强调：对于计算机部分的优劣，在编写大部分代码的时候往往不是最为关键的要素。
 
-### Computer
-BaseLine: Let the newborn know there needs.
-Software(Linux/git/latex/...), Hardware(Apple/Thinkpad/Other, i3/5/7, A/N GPU...anything else?)
-TBD if we provide some suggestions for computers, if so, we may risk being advertising for some OEM.
-
 These are the baselines, if cannot finish these in two months, you might reconsider your choice to join ShanghaiTech.( But reading this means you no longer have choice anymore :) )
 
 ## Guideline for Self-teaching(Important)
 ### Content
 Python.org
-rust-lang.org
 c reference
 Algo and DS
 Ros.org
-### Test: 
-Provide OJ
 
-(Please Change Problem 1/2/3/4 to your problem's name)
+### Easy
 
-Easy： 
+[Easy Problem 1: Visting a Friend](https://github.com/SIST-Manual/easy_Visiting-a-Friend)
 
-[Easy Problem 1](https://github.com/SIST-Manual/Example)
-
-[Easy Problem 2](https://github.com/SIST-Manual/Example)
+[Easy Problem 2: Chthollys request](https://github.com/SIST-Manual/easy_Chthollys-request)
 
 [Easy Problem 3](https://github.com/SIST-Manual/Example)
 
 [Easy Problem 4](https://github.com/SIST-Manual/Example)
 
-CodeForces / LeetCode / ... 	4 Problems 	30~50 lines.
+4 Problems 	30~50 lines.
 
-Median： 
+### Median
 
 [Median Problem 1: 2048](https://github.com/SIST-Manual/median_1_2048)
 
@@ -85,9 +70,9 @@ Median：
 
 [ROS_3d](https://github.com/SIST-Manual/ROS_3d)
 
-SI HW(maybe) / ROS.org / CodeForces 		4 problems = 2(C/Python) + 1ROS + 1 Rust 50~200 lines
+4 problems = 2(C/Python) + 1ROS + 1 Rust 50~200 lines
 
-Advanced： 
+### Advanced 
 
 [Advanced Problem 1: Python Matrix](https://github.com/SIST-Manual/Matrix/blob/master/Python/Matrix_Python_Assignment.md)
 
@@ -95,9 +80,4 @@ Advanced：
 
 Rust HW, SI HW		2 problems = 1(C/Python) + 1 Rust 200+ lines
 
-If you cannot finish median in **two months all by yourself**, it is recommended that you ** reconsider your choice ** to join SIST.
-
-## Problems 
-provided by SIST admin, all we need to do is wait for the problems provided and answer them in the manual.
-## Suggestions.
-Feel free to write anything :)
+If you cannot finish median in **two months all by yourself**, it is recommended that you **reconsider your choice** to join SIST.
