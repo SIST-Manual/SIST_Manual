@@ -66,7 +66,7 @@ Ros.org
 
 [Median Problem 1: 2048](https://github.com/SIST-Manual/median_1_2048)
 
-[Median Problem 2](https://github.com/SIST-Manual/Example)
+[Median Problem 2: IP](https://github.com/SIST-Manual/median_2_IP)
 
 [Median Problem 3](https://github.com/SIST-Manual/Example)
 
