@@ -41,9 +41,13 @@ These are the baselines, if cannot finish these in two months, you might reconsi
 
 ## Guideline for Self-teaching(Important)
 ### Content
+
 Python.org
+
 c reference
+
 Algo and DS
+
 Ros.org
 
 ### Easy
