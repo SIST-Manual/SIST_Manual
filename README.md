@@ -60,28 +60,20 @@ Ros.org
 
 [Easy Problem 4](https://github.com/SIST-Manual/Example)
 
-4 Problems 	30~50 lines.
-
 ### Median
 
 [Median Problem 1: 2048](https://github.com/SIST-Manual/median_1_2048)
 
 [Median Problem 2: IP](https://github.com/SIST-Manual/median_2_IP)
 
-[Median Problem 3](https://github.com/SIST-Manual/Example)
+[Median Problem 3: Shine](https://github.com/SIST-Manual/shine)
 
-[Median Problem 4](https://github.com/SIST-Manual/Example)
-
-[ROS_3d](https://github.com/SIST-Manual/ROS_3d)
-
-4 problems = 2(C/Python) + 1ROS + 1 Rust 50~200 lines
+[Median Problem 4: ROS_3d](https://github.com/SIST-Manual/ROS_3d)
 
 ### Advanced 
 
 [Advanced Problem 1: Python Matrix](https://github.com/SIST-Manual/Matrix/blob/master/Python/README.md)
 
 [Advanced Problem 2: Rust Matrix](https://github.com/SIST-Manual/Matrix/blob/master/Rust/README.md)
-
-Rust HW, SI HW		2 problems = 1(C/Python) + 1 Rust 200+ lines
 
 If you cannot finish median in **two months all by yourself**, it is recommended that you **reconsider your choice** to join SIST.
