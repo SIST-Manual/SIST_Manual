@@ -56,7 +56,7 @@ Ros.org
 
 [Easy Problem 2: Chthollys request](https://github.com/SIST-Manual/easy_Chthollys-request)
 
-[Easy Problem 3](https://github.com/SIST-Manual/Example)
+[Easy Problem 3: Boom](https://github.com/SIST-Manual/easy_Boom)
 
 [Easy Problem 4](https://github.com/SIST-Manual/Example)
 
