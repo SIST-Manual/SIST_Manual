@@ -37,7 +37,7 @@ Prepare a little bit for Calculus. (Until Taylor Expansion?)
 其他硬件，例如电池，需要各位单独做出选择，但是这些硬件不是很需要去考虑，这里不作相应的推荐。 而且，为了避免广告的嫌疑，我们不推荐具体的设备型号，且在暑假期间对于推荐电脑的问题我们也只会作少数回复。
 最后，再次强调：对于计算机部分的优劣，在编写大部分代码的时候往往不是最为关键的要素。
 
-These are the baselines, if cannot finish these in two months, you might reconsider your choice to join ShanghaiTech.( But reading this means you no longer have choice anymore :) )
+These are the baselines, if cannot finish these in two months, you might reconsider your choice to join ShanghaiTech SIST.( But reading this means you no longer have choice anymore :) )
 
 ## Guideline for Self-teaching(Important)
 ### Content
