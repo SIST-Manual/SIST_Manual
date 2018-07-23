@@ -56,9 +56,9 @@ Ros.org
 
 [Easy Problem 2: Chthollys request](https://github.com/SIST-Manual/easy_Chthollys-request)
 
-[Easy Problem 3: Boom](https://github.com/SIST-Manual/easy_Boom)
+[Easy Problem 3: Maximum Subarray](https://github.com/SIST-Manual/easy_Maximum-Subarray)
 
-[Easy Problem 4](https://github.com/SIST-Manual/Example)
+[Easy Problem 4: Boom](https://github.com/SIST-Manual/easy_Boom)
 
 ### Median
 
@@ -66,9 +66,7 @@ Ros.org
 
 [Median Problem 2: IP](https://github.com/SIST-Manual/median_2_IP)
 
-[Median Problem 3: Shine](https://github.com/SIST-Manual/shine)
-
-[Median Problem 4: ROS_3d](https://github.com/SIST-Manual/ROS_3d)
+[Median Problem 3: ROS_3d](https://github.com/SIST-Manual/ROS_3d)
 
 ### Advanced 
 
