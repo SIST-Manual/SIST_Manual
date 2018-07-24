@@ -53,34 +53,18 @@ Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Li
 
 [Ros.org](http://www.ros.org/)
 
-[Rust Programming language](https://www.rust-lang.org/en-US/)
+[Rust Programming language](https://www.rust-lang.org/en-US/) (Optional)
 
 ### Easy
 
 [Easy Problem 1: Visting a Friend](https://github.com/SIST-Manual/easy_Visiting-a-Friend)
 
 [Easy Problem 2: Chthollys request](https://github.com/SIST-Manual/easy_Chthollys-request)
-```
-Problem 2: I think it's better if we add a wikipedia link to palindrome. Not all of them knows what it is.
 
-Peter Rong
-```
 [Easy Problem 3: Maximum Subarray](https://github.com/SIST-Manual/easy_Maximum-Subarray)
-```
-Problem 3: You are using 
-if __name__ == 'main':
-	pass
-in your solution code. But this is not used in the solution of Problem 2. Please make sure they use the same standard. Either use them together or not, otherwise it may be confusing to new students.
 
-Peter Rong
-```
 [Easy Problem 4: Boom](https://github.com/SIST-Manual/easy_Boom)
 
-```
-Problem 4: How about add a testing script and specify it's usage? At least please tell them how to test in terminal using pipe so that they don't copy and paste all the file to their terminal.
-
-Peter Rong
-```
 ### Median
 
 [Median Problem 1: 2048](https://github.com/SIST-Manual/median_1_2048)
