@@ -20,6 +20,11 @@ Prepare for IELTS reading, listening and speaking. Try to reach two 7s in readin
 
 ### Math
 Prepare a little bit for Calculus. (Until Taylor Expansion?)
+```
+	English & Math: Chinese and English content is different. Please revise.
+
+	Peter Rong
+```
 
 ### 计算机
 
@@ -39,6 +44,13 @@ Prepare a little bit for Calculus. (Until Taylor Expansion?)
 
 These are the baselines, if cannot finish these in two months, you might reconsider your choice to join ShanghaiTech SIST.( But reading this means you no longer have choice anymore :) )
 
+```
+	Again, contents are different in two languages. 
+	Also, consider add links when talking about OS, git, Sublime, etc.
+
+	Peter Rong
+```
+
 ## Guideline for Self-teaching(Important)
 ### Content
 
@@ -50,16 +62,39 @@ Algo and DS
 
 Ros.org
 
+```
+	Please add links here.
+	If you mean Intro to Algorithm by "Algo and DS", give them a link to pdf e book. Upload it to this git if you want.
+
+	Peter Rong 
+```
+
 ### Easy
 
 [Easy Problem 1: Visting a Friend](https://github.com/SIST-Manual/easy_Visiting-a-Friend)
 
 [Easy Problem 2: Chthollys request](https://github.com/SIST-Manual/easy_Chthollys-request)
+```
+Problem 2: I think it's better if we add a wikipedia link to palindrome. Not all of them knows what it is.
 
+Peter Rong
+```
 [Easy Problem 3: Maximum Subarray](https://github.com/SIST-Manual/easy_Maximum-Subarray)
+```
+Problem 3: You are using 
+if __name__ == 'main':
+	pass
+in your solution code. But this is not used in the solution of Problem 2. Please make sure they use the same standard. Either use them together or not, otherwise it may be confusing to new students.
 
+Peter Rong
+```
 [Easy Problem 4: Boom](https://github.com/SIST-Manual/easy_Boom)
 
+```
+Problem 4: How about add a testing script and specify it's usage? At least please tell them how to test in terminal using pipe so that they don't copy and paste all the file to their terminal.
+
+Peter Rong
+```
 ### Median
 
 [Median Problem 1: 2048](https://github.com/SIST-Manual/median_1_2048)
