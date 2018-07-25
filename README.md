@@ -35,6 +35,8 @@ Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Li
 
 在编写代码的部分里，有[Sublime Text](https://www.sublimetext.com/), [vi](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/)...
 
+如果你觉得上面那些太老，[VS Code](https://code.visualstudio.com/) 也是不错的选择。
+
 而为了方便调试程序，我们会使用集成开发环境（[IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)）进行编写以及调试代码，推荐[JetBrains](https://www.jetbrains.com/)全家桶...
 
 并为了清晰地说明自己编写代码的思路,强烈建议写注释，以便以后阅读、以及更改代码。
@@ -42,9 +44,13 @@ Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Li
 所以在这里，我们建议大家能够初步使用...
 
 那在硬件部分，自然也会给出我们的推荐。 但就如同照相机之于摄影师，对于计算机部分的优劣，在编写大部分代码的时候往往不是最为关键的要素。 但是当下，也许你们并没有一个合适的写代码的工具，所以提前在这里给大家一个较为合理的推荐。
+
 提到硬件，很多人会自然地想到中央处理器([CPU](https://en.wikipedia.org/wiki/Central_processing_unit))、内存([Memory](https://en.wikipedia.org/wiki/Semiconductor_memory))、图形处理器([GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit))、硬盘([HHD](https://en.wikipedia.org/wiki/Hard_disk_drive), [SSD](https://en.wikipedia.org/wiki/Solid-state_drive))之类。 但是,实际上说一个好的键盘、鼠标、甚至是优质的显示器所带来的提升，在相同的投入下，一些计算机的性能方面的提升往往给人带来的感受反而不是那么明显。 因此，首先需要考虑的键盘、鼠标（或触控板）、显示器。 当然，有些体验极佳的外设，往往与“便携”二字很难有着较为密切的联系。 所以出于便携性的考虑，我们只能做出相应妥协，但是在一些电脑中做出选择，键盘、鼠标、以及显示器的优劣，应该适当注重下这些电脑中的区别。 但是在宿舍此类我们不太注重便携的情境下，我们比较推荐设置一些外设，来改进原有便携计算机的不足之处。
-当然，在电脑性能方面，在选购时也是重要的考虑点，毕竟有时候在提交作业的截止时期前那一点点的卡顿都是令人难以忍受的。 所以我们对于中央处理器的推荐配置是英特尔（[Intel](https://en.wikipedia.org/wiki/Intel)）的酷睿（[Core](https://en.wikipedia.org/wiki/Intel_Core)）以及至强（[Xeon](https://en.wikipedia.org/wiki/Xeon)）系列，以及超微半导体（[AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices))的锐龙（[Ryzen](https://en.wikipedia.org/wiki/Ryzen)）系列。至于图形处理器，我们在这里不做相应的推荐，因为对于图形处理器，除却某些少数的课程（例如[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)）需要，其他多数的课程对此要求不是很高。 但如若需要，不要选购AMD的显卡，因为AMD的驱动对Linux支持一般。 内存推荐至少为8G。 而硬盘方面，我们推荐SSD，因为有时候计算机的卡顿归因于硬盘的读取速度。
-其他硬件，例如电池，需要各位单独做出选择，但是这些硬件不是很需要去考虑，这里不作相应的推荐。 而且，为了避免广告的嫌疑，我们不推荐具体的设备型号，且在暑假期间对于推荐电脑的问题我们也只会作少数回复。
+
+当然，电脑性能在选购时也是重要的考虑点，毕竟有时候在提交作业的截止时期前那一点点的卡顿都是令人难以忍受的。 所以我们对于中央处理器的推荐配置是英特尔（[Intel](https://en.wikipedia.org/wiki/Intel)）的酷睿（[Core](https://en.wikipedia.org/wiki/Intel_Core)）以及至强（[Xeon](https://en.wikipedia.org/wiki/Xeon)）系列。（请购买酷睿低压版i7以上，标压版i5以上的处理器，同等级优先购买8xxx的版本。）以及超微半导体（[AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices))的锐龙（[Ryzen](https://en.wikipedia.org/wiki/Ryzen)）系列。至于独立显卡，我们不认为它很重要，因为对于图形处理器，除却某些少数的课程（例如[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)和并行计算(Parallel Computing)）需要，其他多数的课程对此没有要求。 但如若需要，不要选购AMD的显卡，因为Nvidia CUDA依然是GPU计算的主流平台，并且AMD的驱动对Linux支持一般。此外，不要选购低于GTX1050(Notebook)的独立显卡，考虑到电池和发热，低于它的独显实际使用上还不如Intel集显，省下的钱可以升级一下内存和 SSD。 内存推荐至少为8G。 而硬盘方面，我们强烈推荐SSD作为启动盘并将大型软件安装在其中，因为SSD的高读取速度将会给你带来完全不同的体验。这一点在操作系统启动，MATLAB，Jetbrain 全家桶和 Adobe 全家桶的启动中尤为突出。
+
+此外电池续航，重量和散热也是选购笔记本电脑非常重要的方面，这三点对你使用体验的影响比硬件本身还要大。自己要考虑清楚想要如何使用你的笔记本电脑，比如你是否能够接受每天背3kg电脑+电源去上课。而且，为了避免广告的嫌疑，我们不推荐具体的设备型号，且在暑假期间对于推荐电脑的问题我们也只会作少数回复。
+
 最后，再次强调：对于计算机部分的优劣，在编写大部分代码的时候往往不是最为关键的要素。
 
 ## Guideline for Self-teaching(Important)
