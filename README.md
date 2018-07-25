@@ -85,3 +85,5 @@ Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Li
 [Advanced Problem 2: Rust Matrix](https://github.com/SIST-Manual/Matrix/blob/master/Rust/README.md)
 
 If you cannot finish median in **two months all by yourself**, it is recommended that you **reconsider your choice** to join SIST.
+
+如果在两个月内无法**自行完成**中等题目，你可能要**慎重考虑**信息学院是否适合你。
