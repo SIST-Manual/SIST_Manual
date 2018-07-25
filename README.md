@@ -12,13 +12,15 @@
 ### English
 Prepare for speaking and listening so that you can talk fluently with peers. You also need some reading skills so that you can read Wikipedia, which is not blocked if you read English. There are many links to Wikipedia in this manual, try understand them first :).
 
-One trivia about Wikipedia: whenever you run into some alien language, wiki(Yes you can use it as a verb meaning "search something on Wikipedia") it. If there are other confusing content in the wiki page, 80% chance it will lead you to another wiki page. Thus you can never exhaust Wikipedia before you give up. That's why wiki always wins.
+One trivia about Wikipedia: whenever you run into some alien language, wiki(Yes you can use it as a verb meaning "search something on wiki") it. If there are other confusing content in the wiki page, 80% chance it will lead you to another wiki page. Thus you can never exhaust Wikipedia before you give up. That's why wiki always wins.
 
 Your take away: Practice your English reading skills and wiki whatever you don't understand.
 
 能够较为顺利地与他人交流（听说能力），以及能够阅读一些较长的阅读材料（例如维基百科上的词条，英文维基未被墙）。这本教程中包含了诸多英文维基的链接，请先阅读并理解他们。
 
-关于维基的轶事：无论何时你遇到了你不理解的术语，维基它（是的，维基可以做动词，表示“去维基百科上找东西”）。如果在这个术语的词条内出现了其他你不理解的内容，80%的概率这些内容会把你引入另一个维基页面。因而，在你试图理解什么内容而感到精疲力竭之前，维基总有多余的页面让你继续阅读。所以你永远不可能比过维基。
+关于维基的轶事：无论何时你遇到了你不理解的术语，维基它（是的，维基可以做动词，表示“去维基上找东西”）。如果在这个术语的词条内出现了其他你不理解的内容，80%的概率这些内容会把你引入另一个维基页面。因而，在你试图理解什么内容而感到精疲力竭之前，维基总有多余的页面让你继续阅读。所以你永远不可能比过维基。
+
+给你的忠告：练习英语阅读，使用维基搜索任何你不理解的内容。
 
 ### Math
 Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra). You want to know the basic terminology but it's not required to know how to use them.
@@ -47,7 +49,7 @@ Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Li
 
 提到硬件，很多人会自然地想到中央处理器([CPU](https://en.wikipedia.org/wiki/Central_processing_unit))、内存([Memory](https://en.wikipedia.org/wiki/Semiconductor_memory))、图形处理器([GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit))、硬盘([HDD](https://en.wikipedia.org/wiki/Hard_disk_drive), [SSD](https://en.wikipedia.org/wiki/Solid-state_drive))之类。 但是,实际上说一个好的键盘、鼠标、甚至是优质的显示器所带来的提升，在相同的投入下，一些计算机的性能方面的提升往往给人带来的感受反而不是那么明显。 因此，首先需要考虑的键盘、鼠标（或触控板）、显示器。 当然，有些体验极佳的外设，往往与“便携”二字很难有着较为密切的联系。 所以出于便携性的考虑，我们只能做出相应妥协，但是在一些电脑中做出选择，键盘、鼠标、以及显示器的优劣，应该适当注重下这些电脑中的区别。 但是在宿舍此类我们不太注重便携的情境下，我们比较推荐设置一些外设，来改进原有便携计算机的不足之处。
 
-当然，电脑性能在选购时也是重要的考虑点，毕竟有时候在提交作业的截止时期前那一点点的卡顿都是令人难以忍受的。 所以我们对于中央处理器的推荐配置是英特尔（[Intel](https://en.wikipedia.org/wiki/Intel)）的酷睿（[Core](https://en.wikipedia.org/wiki/Intel_Core)）以及至强（[Xeon](https://en.wikipedia.org/wiki/Xeon)）系列。（请购买酷睿低压版i7以上，标压版i5以上的处理器，同等级优先购买8xxx的版本。）以及超微半导体（[AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices))的锐龙（[Ryzen](https://en.wikipedia.org/wiki/Ryzen)）系列。至于独立显卡，我们不认为它很重要，因为对于图形处理器，除却某些少数的课程（例如[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)和并行计算(Parallel Computing)）需要，其他多数的课程对此没有要求。 但如若需要，不要选购AMD的显卡，因为Nvidia CUDA依然是GPU计算的主流平台，并且AMD的驱动对Linux支持一般。此外，不要选购低于GTX1050(Notebook)的独立显卡，考虑到电池和发热，低于它的独显实际使用上还不如Intel集显，省下的钱可以升级一下内存和 SSD。 内存推荐至少为8G。 而硬盘方面，我们强烈推荐SSD作为启动盘并将大型软件安装在其中，因为SSD的高读取速度将会给你带来完全不同的体验。这一点在操作系统启动，MATLAB，Jetbrain 全家桶和 Adobe 全家桶的启动中尤为突出。
+当然，电脑性能在选购时也是重要的考虑点，毕竟有时候在提交作业的截止时期前那一点点的卡顿都是令人难以忍受的。 所以我们对于中央处理器的推荐配置是英特尔（[Intel](https://en.wikipedia.org/wiki/Intel)）的酷睿（[Core](https://en.wikipedia.org/wiki/Intel_Core)）以及至强（[Xeon](https://en.wikipedia.org/wiki/Xeon)）系列。（请购买酷睿低压版i7以上，标压版i5以上的处理器，同等级优先购买8xxx的版本。）以及超微半导体（[AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices))的锐龙（[Ryzen](https://en.wikipedia.org/wiki/Ryzen)）系列。至于独立显卡，我们不认为它很重要，因为对于图形处理器，除却某些少数的课程（例如[深度学习Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)和[并行计算Parallel Computing](https://en.wikipedia.org/wiki/Parallel_computing)）需要，其他多数的课程对此没有要求。 但如若需要，不要选购AMD的显卡，因为Nvidia CUDA依然是GPU计算的主流平台，并且AMD的驱动对Linux支持一般。此外，不要选购低于GTX1050(Notebook)的独立显卡，考虑到电池和发热，低于它的独显实际使用上还不如Intel集显，省下的钱可以升级一下内存和 SSD。 内存推荐至少为8G。 而硬盘方面，我们强烈推荐SSD作为启动盘并将大型软件安装在其中，因为SSD的高读取速度将会给你带来完全不同的体验。这一点在操作系统启动，MATLAB，Jetbrain 全家桶和 Adobe 全家桶的启动中尤为突出。
 
 此外电池续航，重量和散热也是选购笔记本电脑非常重要的方面，这三点对你使用体验的影响比硬件本身还要大。自己要考虑清楚想要如何使用你的笔记本电脑，比如你是否能够接受每天背3kg电脑+电源去上课。而且，为了避免广告的嫌疑，我们不推荐具体的设备型号，且在暑假期间对于推荐电脑的问题我们也只会作少数回复。
 
