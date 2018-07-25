@@ -10,7 +10,7 @@
 ## 预先准备 / Preparation
 
 ### English
-Prepare for speaking and listening so that you can talk fluently with peers. You also need some reading skills so that you can read Wikipedia, which is not blocked if you read English. There are many links to Wikipedia in this manual, try understand them first :).
+Practice your speaking and listening skills so that you are able to communicate freely with others. Reading is also important, as you will need to understand articles and papers written in English. The English version of Wikipedia is a great place to sharpen your skills, given that it is abundant of knowledge. Besides, it is not blocked by the **CENSORED**, and there are many links embedded in this manual pointing to Wikipedia articles, so you may want to try understanding them first :).
 
 One trivia about Wikipedia: whenever you run into some alien language, wiki(Yes you can use it as a verb meaning "search something on Wikipedia") it. If there are other confusing content in the wiki page, 80% chance it will lead you to another wiki page. Thus you can never exhaust Wikipedia before you give up. That's why wiki always wins.
 
