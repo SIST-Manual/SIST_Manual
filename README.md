@@ -12,8 +12,13 @@
 ### English
 Prepare for speaking and listening so that you can talk frequently with peers. You also need some reading skills so that you can read Wikipedia, which is not blocked if you read English. There are many links to Wikipedia in this manual, try understand them first :).
 
+One trivia about Wikipedia: whenever you run into some alien language, wiki(Yes you can use it as a verb meaning "search something on Wikipedia") it. If there are other confusing content in the wiki page, 80% chance it will lead you to another wiki page. Thus you can never exhaust Wikipedia before you give up. That's why wiki always wins.
+
+Your take away: Practice your English reading skills and wiki whatever you don't understand.
+
 能够较为顺利地与他人交流（听说能力），以及能够阅读一些较长的阅读材料（例如维基百科上的词条，英文维基未被墙）。这本教程中包含了诸多英文维基的链接，请先阅读并理解他们。
 
+关于维基的轶事：无论何时你遇到了你不理解的术语，维基它（是的，维基可以做动词，表示“去维基百科上找东西”）。如果在这个术语的词条内出现了其他你不理解的内容，80%的概率这些内容会把你引入另一个维基页面。因而，在你试图理解什么内容而感到精疲力竭之前，维基总有多余的页面让你继续阅读。所以你永远不可能比过维基。
 
 ### Math
 Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra). You want to know the basic terminology but it's not required to know how to use them.
