@@ -29,7 +29,7 @@ Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Li
 ### 计算机
 
 对于计算机而言，主要还是三类操作系统：[Linux](https://en.wikipedia.org/wiki/Linux)、Windows、macOS。 
-在这里，我们主要推荐的自然是Linux的[Ubuntu 16.04](https://www.ubuntu.com/) 发行版，平时作业、项目、实验等使用较多。
+在这里，我们主要推荐的自然是Linux的[Ubuntu 18.04](https://www.ubuntu.com/) 发行版，平时作业、项目、实验等使用较多。
 
 在代码/项目管理中，我们最为推崇的方式是以[git](https://git-scm.com/)为首的版本控制([Version Control](https://en.wikipedia.org/wiki/Version_control))系统。 所谓版本控制系统，是一种记录一个或若干文件内容变化，以便将来查阅特定版本修订情况的系统。 ...
 
@@ -55,14 +55,17 @@ Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Li
 
 ## Guideline for Self-teaching(Important)
 ### Content
+(For the websites, start from parts called "tutorial" or "guide" and go to detailed reference only when you are interested in a specific topic.)
 
 [Python.org](https://www.python.org/)
 
 [C & C++ reference](http://www.cplusplus.com/)
 
-[Introduction to Algorithms](https://github.com/SIST-Manual/SIST_Manual/blob/master/IntroductionToAlgorithms.pdf)
+[Linux Man Page](https://linux.die.net/)
 
 [Ros.org](http://www.ros.org/)
+
+[Introduction to Algorithms](https://github.com/SIST-Manual/SIST_Manual/blob/master/IntroductionToAlgorithms.pdf)
 
 [Rust Programming language](https://www.rust-lang.org/en-US/) (Optional)
 
