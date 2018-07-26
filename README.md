@@ -79,7 +79,7 @@ Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Li
 
 [Easy Problem 3: Maximum Subarray](https://github.com/SIST-Manual/easy_Maximum-Subarray)
 
-[Easy Problem 4: Boom](https://github.com/SIST-Manual/easy_Boom)
+[Easy Problem 4: Boom](https://github.com/SIST-Manual/easy_New-boom)
 
 ### Median
 
