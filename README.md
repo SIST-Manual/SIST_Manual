@@ -113,7 +113,8 @@ If you cannot finish median in **two months all by yourself**, it is recommended
 * 《信息简史：一部历史 一个理论 一股洪流》（人民邮电出版社）
 * 《编码：隐匿在计算机软硬件背后的语言》（电子工业出版社）
 * 《艾伦·图灵传：如谜的解谜者》（湖南科学技术出版社）
-
+* 《数学之美》(人民邮电出版社)
+* 《浪潮之巅》(人民邮电出版社)
 ### List for EE Green Hands
 
 EE 方向零基础的同学可以看一下下面几本书（看起来画风很幼稚，但实际起码需要高中的物理和化学基础）：
