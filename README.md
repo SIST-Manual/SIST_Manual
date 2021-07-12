@@ -73,7 +73,7 @@ Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Li
 
 [Ros.org](http://www.ros.org/)
 
-[Introduction to Algorithms](https://github.com/SIST-Manual/SIST_Manual/blob/master/IntroductionToAlgorithms.pdf)
+[Introduction to Algorithms]
 
 [Rust Programming language](https://www.rust-lang.org/en-US/) (Optional)
 
@@ -101,9 +101,8 @@ Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Li
 
 [Advanced Problem 2: Rust Matrix](https://github.com/SIST-Manual/Matrix/blob/master/Rust/README.md)
 
-If you cannot finish median in **two months all by yourself**, it is recommended that you **reconsider your choice** to join SIST.
 
-如果在两个月内无法**自行完成**中等题目，你可能要**慎重考虑**信息学院是否适合你。
+如果在两个月内无法**自行完成**中等题目，你可能要**在入学前先行加强编程能力**。
 
 ## Supplementary Reading List
 
@@ -118,7 +117,7 @@ If you cannot finish median in **two months all by yourself**, it is recommended
 ### List for EE Green Hands
 
 EE 方向零基础的同学可以看一下下面几本书（看起来画风很幼稚，但实际起码需要高中的物理和化学基础）：
-* [电子电路开心入门](https://book.douban.com/subject/11499548/)，对应学院内电路方向（王浩宇、刘宇等教授）
+* [电子电路开心入门](https://book.douban.com/subject/11499548/)，对应学院内电路方向（哈亚军、娄鑫、刘宇、邹新波等教授）
 * [半导体面面观](https://book.douban.com/subject/11499544/)，对应学院内器件方向（寇煦丰、王成等教授）
-* [通信漫话](https://book.douban.com/subject/10798993/)，对应学院内通信、信息工程方向（罗喜良、钱骅、邵子瑜等教授）
+* [通信漫话](https://book.douban.com/subject/10798993/)，对应学院内通信、信息工程方向（石远明、吴幼龙、邵子瑜等教授）
 * [探秘电波](https://book.douban.com/subject/10799039/)，对应学院内电磁学方向（王雄、叶朝锋等教授）
