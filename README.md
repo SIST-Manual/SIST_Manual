@@ -3,7 +3,7 @@
 ## 生活 / Life
 
 1. 合理分配学习与休息时间，量力而行。
-2. 保证充足的睡眠时间，以及尽可能地不要过晚入睡。
+2. 保证充足的睡眠时间，以及尽可能地不要过晚入睡与昼夜颠倒。
 3. 注意用眼时长，由于信息学院学生会时常接触电脑屏幕，故须适当放松。
 4. 注意饮食，不要经常食用方便食品（比如泡面）。
 
@@ -25,20 +25,21 @@ Your take away: Practice your English reading skills and wiki whatever you don't
 
 ### Math
 Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra). You want to know the basic terminology but it's not required to know how to use them.
+Elementary Linear Algebra with Applications (8th edition) and mathematical Analysis from USTC are available for the first year undergraduate students in the SIST.
 
-稍微接触微积分，线性代数的基本概念，能够理解一些概念名称的含义（准备期并不要求掌握与应用）。
+
+稍微接触微积分与线性代数的基本概念，能够理解一些概念名称的含义（准备期并不要求掌握与应用）。信息学院的本科生在本科一年级采用中科大的数学分析讲义(中文)与Elementary Linear Algebra with Applications展开数理通识课的教学，可以事先开始准备。
 
 
 ### 计算机
 
 对于计算机而言，主要还是三类操作系统：[Linux](https://en.wikipedia.org/wiki/Linux)、Windows、macOS。 
-在这里，我们主要推荐的自然是Linux的[Ubuntu](https://www.ubuntu.com/) [16.04 LTS](http://releases.ubuntu.com/16.04/) 发行版，平时作业、项目、实验等使用较多。
+在这里，我们主要推荐的自然是Linux的[Ubuntu](https://www.ubuntu.com/) [20.04 LTS](http://releases.ubuntu.com/20.04/) 发行版，平时作业、项目、实验等使用较多。
+无论是选用何种操作系统，我们都不建议在主力机上使用预览版(preview)的操作系统，因为未进入发行通道的系统可能存在很多影响体验与稳定性的bug，而在提交作业前突发的系统故障是会要人命的。
 
 在代码/项目管理中，我们最为推崇的方式是以[git](https://git-scm.com/)为首的版本控制([Version Control](https://en.wikipedia.org/wiki/Version_control))系统。 所谓版本控制系统，是一种记录一个或若干文件内容变化，以便将来查阅特定版本修订情况的系统。 ...
 
-在编写代码的部分里，有[Sublime Text](https://www.sublimetext.com/), [vi](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/)...
-
-如果你觉得上面那些太老，[VS Code](https://code.visualstudio.com/) 也是不错的选择。
+在编写代码的部分里，[VS Code](https://code.visualstudio.com/)是我们推荐的全平台文本编辑环境。在各个操作系统下也有诸如notepad、vi与nano等自带文本编辑器可供选用。
 
 而为了方便调试程序，我们会使用集成开发环境（[IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)）进行编写以及调试代码，推荐[JetBrains](https://www.jetbrains.com/)全家桶...
 
@@ -53,11 +54,11 @@ Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Li
 但实际上，同等价格，把其中更多部分投资在键盘、鼠标、甚至是优质的显示器上给使用体验所带来的提升，可能远超计算机的性能方面的提升给人带来的感受。 因此，首先需要考虑的键盘、鼠标（或触控板）、显示器。 当然，有些体验极佳的外设，往往与“便携”二字很难有着较为密切的联系。 所以出于便携性的考虑，我们只能做出相应妥协，但是在一些电脑中做出选择，键盘、鼠标、以及显示器的优劣，应该适当注重下这些电脑中的区别。 但是在宿舍此类我们不太注重便携的情境下，我们比较推荐设置一些外设，来改进原有便携计算机的不足之处。
 
 当然，电脑性能在选购时也是重要的考虑点，毕竟有时候在提交作业的截止时期前那一点点的卡顿都是令人难以忍受的。 
-* 对于中央处理器的推荐配置是英特尔（[Intel](https://en.wikipedia.org/wiki/Intel)）的酷睿（[Core](https://en.wikipedia.org/wiki/Intel_Core)）以及至强（[Xeon](https://en.wikipedia.org/wiki/Xeon)）系列。（请购买酷睿低压版i7以上，标压版i5以上的处理器，同等级优先购买8xxx的版本。）以及超微半导体（[AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices))的锐龙（[Ryzen](https://en.wikipedia.org/wiki/Ryzen)）系列。
+* 对于中央处理器的推荐配置是超微半导体（[AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices))的锐龙（[Ryzen](https://en.wikipedia.org/wiki/Ryzen)）系列。越新代的处理器往往能带来更好的能效表现。
 * 至于独立显卡，我们不认为它很重要，因为对于图形处理器，除却某些少数的课程（例如[深度学习Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)和[并行计算Parallel Computing](https://en.wikipedia.org/wiki/Parallel_computing)）需要，其他多数的课程对此没有要求。 如若需要，不要选购AMD的显卡，因为 Nvidia CUDA 依然是 GPU 通用计算的主流平台，并且AMD的驱动对Linux支持一般。此外，不要选购性能低于 nVidia GTX 1050 的独立显卡，考虑到电池和发热，低于它的独显实际使用上还不如 CPU 自带的集显，省下的钱可以升级一下内存和 SSD。
-* 内存推荐至少为8G（购买前对可以以 型号+拆解 为关键词搜索主板内存插槽结构，并考虑自己加装）。
-* 而硬盘方面，我们强烈推荐 SSD 作为启动盘并将大型软件安装在其中，因为SSD的高读取速度将会给你带来完全不同的体验。这一点在操作系统启动、MATLAB、Jetbrain 全家桶和 Adobe 全家桶的启动速度对比中尤为突出。不过通常情况下，考虑在固态硬盘中安装 MATLAB 这样的大型软件可能需要 512G 甚至容量更大的 SSD，容易超支。建议家庭经济情况不是特别宽裕的同学可以优先考虑 256G SSD + 1T HDD 的组合。
-* 此外电池续航，重量和散热也是选购笔记本电脑非常重要的方面，这三点对你使用体验的影响比硬件本身还要大。自己要考虑清楚想要如何使用你的笔记本电脑，比如你是否能够接受每天背3kg电脑+电源去上课。而且，为了避免广告的嫌疑，我们不推荐具体的设备型号，且在暑假期间对于推荐电脑的问题我们也只会作少数回复。
+* 内存推荐至少为16G（购买前对可以以 型号+拆解 为关键词搜索主板内存插槽结构，并考虑自己加装）。
+* 而硬盘方面，我们强烈推荐 SSD 作为启动盘并将大型软件安装在其中，因为SSD的高读取速度将会给你带来完全不同的体验。这一点在操作系统启动、MATLAB、Jetbrain 全家桶和 Adobe 全家桶的启动速度对比中尤为突出。不过通常情况下，考虑在固态硬盘中安装 MATLAB 这样的大型软件可能需要容量更大的 SSD，容易超支。
+* 非常重要的是，电池续航，重量和散热也是选购笔记本电脑非常重要的方面，这三点对你使用体验的影响比硬件本身还要大。自己要考虑清楚想要如何使用你的笔记本电脑，比如你是否能够接受每天背3kg电脑+电源去上课。而且，为了避免广告的嫌疑，我们不推荐具体的设备型号。
 
 最后，再次强调：计算机本身的性能，在编写大部分代码的时候往往不是最为关键的要素。
 
