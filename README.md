@@ -17,7 +17,7 @@ One trivia about Wikipedia: whenever you run into some alien language, wiki(Yes 
 
 Your take away: Practice your English reading skills and wiki whatever you don't understand.
 
-能够较为顺利地与他人交流（听说能力），以及能够阅读一些较长的阅读材料（例如维基百科上的词条，英文维基未被墙）。这本教程中包含了诸多英文维基的链接，请先阅读并理解他们。
+能够较为顺利地与他人交流（听说能力），以及能够阅读一些较长的阅读材料（例如维基百科上的词条，英文维基可能需要翻墙）。这本教程中包含了诸多英文维基的链接，请先阅读并理解他们。
 
 关于维基的轶事：无论何时你遇到了你不理解的术语，维基它（是的，维基可以做动词，表示“去维基上找东西”）。如果在这个术语的词条内出现了其他你不理解的内容，80%的概率这些内容会把你引入另一个维基页面。因而，在你试图理解什么内容而感到精疲力竭之前，维基总有多余的页面让你继续阅读。所以你永远不可能比过维基。
 
@@ -27,9 +27,7 @@ Your take away: Practice your English reading skills and wiki whatever you don't
 Prepare a little bit for [Calculus](https://en.wikipedia.org/wiki/Calculus), [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra). You want to know the basic terminology but it's not required to know how to use them.
 Elementary Linear Algebra with Applications (8th edition) and mathematical Analysis from USTC are available for the first year undergraduate students in the SIST.
 
-
 稍微接触微积分与线性代数的基本概念，能够理解一些概念名称的含义（准备期并不要求掌握与应用）。信息学院的本科生在本科一年级采用中科大的数学分析讲义(中文)与Elementary Linear Algebra with Applications展开数理通识课的教学，可以事先开始准备。
-
 
 ### 计算机
 
@@ -55,10 +53,11 @@ Elementary Linear Algebra with Applications (8th edition) and mathematical Analy
 
 当然，电脑性能在选购时也是重要的考虑点，毕竟有时候在提交作业的截止时期前那一点点的卡顿都是令人难以忍受的。 
 * 对于中央处理器的推荐配置是超微半导体（[AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices))的锐龙（[Ryzen](https://en.wikipedia.org/wiki/Ryzen)）系列。越新代的处理器往往能带来更好的能效表现。
-* 至于独立显卡，我们不认为它很重要，因为对于图形处理器，除却某些少数的课程（例如[深度学习Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)和[并行计算Parallel Computing](https://en.wikipedia.org/wiki/Parallel_computing)）需要，其他多数的课程对此没有要求。 如若需要，不要选购AMD的显卡，因为 Nvidia CUDA 依然是 GPU 通用计算的主流平台，并且AMD的驱动对Linux支持一般。此外，不要选购性能低于 nVidia GTX 1050 的独立显卡，考虑到电池和发热，低于它的独显实际使用上还不如 CPU 自带的集显，省下的钱可以升级一下内存和 SSD。
+* 至于独立显卡，我们不认为它很重要，因为对于图形处理器，除却某些少数的课程（例如[深度学习Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)和[并行计算Parallel Computing](https://en.wikipedia.org/wiki/Parallel_computing)）需要，其他多数的课程对此没有要求。 如若需要，不要选购AMD的显卡，因为 Nvidia CUDA 依然是 GPU 通用计算的主流平台，并且AMD的驱动对Linux支持一般。此外，不要选购性能低于 nVidia GTX 3050 的独立显卡，考虑到电池和发热，低于它的独显实际使用上还不如 CPU 自带的集显，省下的钱可以升级一下内存和 SSD。目前，AMD的核显性能甚至已经超过了1650Ti，可以提供不错的游戏体验。
 * 内存推荐至少为16G（购买前对可以以 型号+拆解 为关键词搜索主板内存插槽结构，并考虑自己加装）。
 * 而硬盘方面，我们强烈推荐 SSD 作为启动盘并将大型软件安装在其中，因为SSD的高读取速度将会给你带来完全不同的体验。这一点在操作系统启动、MATLAB、Jetbrain 全家桶和 Adobe 全家桶的启动速度对比中尤为突出。不过通常情况下，考虑在固态硬盘中安装 MATLAB 这样的大型软件可能需要容量更大的 SSD，容易超支。
-* 非常重要的是，电池续航，重量和散热也是选购笔记本电脑非常重要的方面，这三点对你使用体验的影响比硬件本身还要大。自己要考虑清楚想要如何使用你的笔记本电脑，比如你是否能够接受每天背3kg电脑+电源去上课。而且，为了避免广告的嫌疑，我们不推荐具体的设备型号。
+* 与现今电脑市场普遍使用的x86架构不同，mac系列电脑正在全面转向ARM架构，收获了不俗的性能与续航表现。因此，如果对于自己的需求考虑相当清楚，可以选购ARM架构的macbook。但值得一提的是，由于ARM架构的兼容性问题，macbook可能无法独立完成某些作业。
+* **非常重要的是，电池续航，重量和散热也是选购笔记本电脑非常重要的方面，这三点对你使用体验的影响比硬件本身还要大。自己要考虑清楚想要如何使用你的笔记本电脑，比如你是否能够接受每天背3kg电脑+电源去上课，与必须小心翼翼的规划两小时的电池续航时间。** 而且，为了避免广告的嫌疑，我们不推荐具体的设备型号。
 
 最后，再次强调：计算机本身的性能，在编写大部分代码的时候往往不是最为关键的要素。
 
